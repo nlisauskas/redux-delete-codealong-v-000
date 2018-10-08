@@ -9,5 +9,3 @@ const Todo = props => {
 }
 
 export default Todo;
-
-export default Todo;
